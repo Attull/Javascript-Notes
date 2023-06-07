@@ -104,3 +104,4 @@ var res =  square(2)       // function call statement , 2 is argument
 ```
  
 ## Array
+
